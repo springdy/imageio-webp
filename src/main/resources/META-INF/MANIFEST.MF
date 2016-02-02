@@ -1,0 +1,7 @@
+Build-By: pepijn
+Build-Jdk: 
+Implementation-Title: webp-imageio
+Implementation-Version: 0.4.2.0-SNAPSHOT
+Manifest-Version: 1.0
+Created-By: Buildr
+
